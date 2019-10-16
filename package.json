@@ -1,0 +1,14 @@
+{
+  "name": "sample-app",
+  "author": "Scott Fitzpatrick",
+  "scripts": {
+    "manage-homerun-data": "node ./src/manage-homerun-data.js"
+  },
+  "dependencies": {
+    "enigma.js": "2.4.0",
+    "ws": "7.1.2"
+  },
+  "engines": {
+    "node": ">=8.9.3"
+  }
+}
