@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "enigma.js": "2.4.0",
-    "ws": "7.1.2"
+    "ws": "7.5.10"
   },
   "engines": {
     "node": ">=8.9.3"
